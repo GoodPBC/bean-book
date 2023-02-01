@@ -14,7 +14,7 @@ function MyApp({ Component, pageProps }) {
             >
             Powered by Good Inc. {'  '}
             <span className="footer-logo-wrapper">
-                <Image src="/GOOD.png" alt="Good Inc Logo" width={32} height={32} />
+                <Image src="/static/GOOD.png" alt="Good Inc Logo" width={32} height={32} />
             </span>
         </a>
       </footer>
